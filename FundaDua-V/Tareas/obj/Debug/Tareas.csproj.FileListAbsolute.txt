@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
