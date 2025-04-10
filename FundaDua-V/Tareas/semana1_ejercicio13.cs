@@ -14,20 +14,20 @@ namespace Tareas
             //siguientes cifras: 640, 684, 863, 876,753. Se pide mediante un algoritmo y programa ingresar los datos y
             //calcular su promedio, Varianza y Desviación Estándar.(promedio=763.2|varianza=8847.76|desviacion estandar=94.06)
             //definimos las variables
-            int dia1, dia2, dia3, dia4, dia5;
+            double dia1, dia2, dia3, dia4, dia5;
             double x1, x2, x3, x4, x5;
             double promedio_de_pasajeros, varianza, desviacion_estandar;
             Console.WriteLine("==promedio-varianza-desviación_estandar==");
             Console.Write("numero de pasajeros dia 1:");
-            dia1 = int.Parse(Console.ReadLine());
+            dia1 = double.Parse(Console.ReadLine());
             Console.Write("numero de pasajeros dia 2:");
-            dia2 = int.Parse(Console.ReadLine());
+            dia2 = double.Parse(Console.ReadLine());
             Console.Write("numero de pasajeros dia 3:");
-            dia3 = int.Parse(Console.ReadLine());
+            dia3 = double.Parse(Console.ReadLine());
             Console.Write("numero de pasajeros dia 4:");
-            dia4 = int.Parse(Console.ReadLine());
+            dia4 = double.Parse(Console.ReadLine());
             Console.Write("numero de pasajeros dia 5:");
-            dia5 = int.Parse(Console.ReadLine());
+            dia5 = double.Parse(Console.ReadLine());
             //sacamos el promedio de la cantidad de pasajeros
             promedio_de_pasajeros = (dia1 + dia2 + dia3 + dia4 + dia5) / 5;
             Console.WriteLine("el promedio de pasajeros en los 5 dias es: " + promedio_de_pasajeros);

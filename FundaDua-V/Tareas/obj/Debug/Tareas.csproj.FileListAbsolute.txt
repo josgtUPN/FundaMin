@@ -1,2 +1,7 @@
 C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.csproj.AssemblyReference.cache
 C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\bin\Debug\Tareas.exe
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\bin\Debug\Tareas.pdb
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.exe
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\Tareas\obj\Debug\Tareas.pdb

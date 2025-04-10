@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Tareas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8675E17F-D865-4A31-9513-CFDE63D47791}|Tareas.csproj|c:\\users\\usuario\\documents\\github\\fundamin\\fundadua-v\\tareas\\semana2_ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8675E17F-D865-4A31-9513-CFDE63D47791}|Tareas.csproj|solutionrelative:semana2_ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8675E17F-D865-4A31-9513-CFDE63D47791}|Tareas.csproj|c:\\users\\usuario\\documents\\github\\fundamin\\fundadua-v\\tareas\\semana1_ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8675E17F-D865-4A31-9513-CFDE63D47791}|Tareas.csproj|solutionrelative:semana1_ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "semana2_ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Tareas\\semana2_ejercicio5.cs",
+              "RelativeDocumentMoniker": "semana2_ejercicio5.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Tareas\\semana2_ejercicio5.cs",
+              "RelativeToolTip": "semana2_ejercicio5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:55:09.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "semana1_ejercicio13.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Tareas\\semana1_ejercicio13.cs",
               "RelativeDocumentMoniker": "semana1_ejercicio13.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Tareas\\semana1_ejercicio13.cs",
               "RelativeToolTip": "semana1_ejercicio13.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T04:44:15.599Z",
               "EditorCaption": ""
