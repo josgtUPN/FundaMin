@@ -46,9 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CLASE SEMANA 3 EJEM.cs" />
-    <Compile Include="dos.cs" />
+    <Compile Include="semana3_ejemplo.cs" />
+    <Compile Include="semana3_ejercicio_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="semana 1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
