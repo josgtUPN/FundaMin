@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Clases
 {
-    internal class Semana2
+    internal class semana2
     {
         static void Main(string[] args)
         {
@@ -15,8 +15,8 @@ namespace Clases
             Console.WriteLine("captacion de clientes - finanzas");
             Console.WriteLine("********************************");
             Console.WriteLine("ingrese monto del prestamo:");
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            //Console.BackgroundColor = ConsoleColor.White;
+            //Console.ForegroundColor = ConsoleColor.DarkBlue;
             //limpiar consola
 
             monto_prestamo = double.Parse(Console.ReadLine());

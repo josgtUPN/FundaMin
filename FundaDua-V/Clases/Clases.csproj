@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Semana2.cs" />
+    <Compile Include="semana1.cs" />
+    <Compile Include="semana2.cs" />
     <Compile Include="semana2_ejercicio-3.cs" />
   </ItemGroup>
   <ItemGroup>

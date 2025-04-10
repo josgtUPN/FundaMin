@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|c:\\users\\usuario\\documents\\github\\fundamin\\fundadua-v\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|c:\\users\\usuario\\documents\\github\\fundamin\\fundadua-v\\clases\\semana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|solutionrelative:semana1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:semana_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|c:\\users\\usuario\\documents\\github\\fundamin\\fundadua-v\\clases\\semana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|solutionrelative:semana2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "semana1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana1.cs",
+              "RelativeDocumentMoniker": "semana1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana1.cs",
+              "RelativeToolTip": "semana1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:47:52.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "semana_1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana_1.cs",
+              "RelativeDocumentMoniker": "semana_1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana_1.cs",
+              "RelativeToolTip": "semana_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:47:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "semana2.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana2.cs",
+              "RelativeDocumentMoniker": "semana2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\semana2.cs",
+              "RelativeToolTip": "semana2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:46:38.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clases\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T01:59:44.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T01:59:44.341Z"
             }
           ]
         }

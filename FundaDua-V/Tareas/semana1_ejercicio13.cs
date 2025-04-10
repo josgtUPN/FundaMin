@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tareas
 {
-    internal class Program
+    internal class semana1_ejercicio13
     {
         static void Main(string[] args)
         {
