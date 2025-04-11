@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\obj\Debug\practicas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\obj\Debug\practicas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\bin\Debug\practicas.exe.config
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\bin\Debug\practicas.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\bin\Debug\practicas.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\obj\Debug\practicas.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\practicas\obj\Debug\practicas.pdb
