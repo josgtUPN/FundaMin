@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.Dos</StartupObject>
+    <StartupObject>ConsoleApp1.semana4_5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,10 +50,15 @@
     <Compile Include="semana2.cs" />
     <Compile Include="semana2_ejercicio-1.cs" />
     <Compile Include="semana2_ejercicio-2.cs" />
-    <Compile Include="semana3_ejemplo.cs" />
+    <Compile Include="semana3_1.cs" />
     <Compile Include="semana3_ejercicio_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="semana 1.cs" />
+    <Compile Include="semana4_1.cs" />
+    <Compile Include="semana4_2.cs" />
+    <Compile Include="semana4_3.cs" />
+    <Compile Include="semana4_4.cs" />
+    <Compile Include="semana4_5.cs" />
+    <Compile Include="semana_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

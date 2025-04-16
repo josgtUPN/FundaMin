@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\FundaMin\\FundaMin-M\\ConsoleApp1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\clasesm\\semana4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana4_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "semana4_5.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_5.cs",
+              "RelativeDocumentMoniker": "semana4_5.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_5.cs*",
+              "RelativeToolTip": "semana4_5.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:46:15.481Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
