@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\clasesm\\semana4_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana4_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\clasesm\\semana4_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana4_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -36,23 +36,23 @@
               "Title": "ConsoleApp1",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\ConsoleApp1.csproj*",
-              "RelativeToolTip": "ConsoleApp1.csproj*",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-16T17:16:36.651Z",
+              "WhenOpened": "2025-04-16T18:34:35.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "semana4_4.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_4.cs",
-              "RelativeDocumentMoniker": "semana4_4.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_4.cs",
-              "RelativeToolTip": "semana4_4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Title": "semana4_6.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_6.cs",
+              "RelativeDocumentMoniker": "semana4_6.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana4_6.cs",
+              "RelativeToolTip": "semana4_6.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T17:08:04.832Z",
+              "WhenOpened": "2025-04-16T18:03:20.255Z",
               "EditorCaption": ""
             }
           ]

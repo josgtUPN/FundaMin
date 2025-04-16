@@ -26,6 +26,13 @@ namespace ConsoleApp1
                 //pares += (i % 2 == 0) ? i.tostring() : "";
                 //impares += (i % 2 != 0) ? i.tostring() : "";
             }
+            Console.WriteLine("NUMEROS PARES");
+            Console.WriteLine("-------------");
+            Console.Write(pares);
+            Console.WriteLine("NUMEROS IMPARES");
+            Console.WriteLine("---------------");
+            Console.WriteLine(impares);
+            Console.ReadKey();
         }
     }
 }

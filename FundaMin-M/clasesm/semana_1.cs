@@ -12,7 +12,8 @@ namespace ConsoleApp1
         {
             string nombre;
             int edad;
-            DateTime fecha;
+
+            int fecha=0;
             Console.WriteLine("bienvenido al curso de fundamentos de algoritmos");
             Console.Write("Ingrese nombre : ");
             nombre = Console.ReadLine();
@@ -22,9 +23,9 @@ namespace ConsoleApp1
             Console.WriteLine(nombre + " tiene " + edad + " años ");
             Console.WriteLine("{0} tiene {1} años", nombre, edad);
             Console.Write("ingrese fecha de nacimeinto: ");
-            fecha = datetime.year.Parse(Console.ReadLine());
+           
             //fecha = Convert.ToDateTime(Console.ReadLine());
-            edad = DateTime.Now.Year - fecha.Year;
+            //edad = DateTime.Now.Year - fecha.Year;
             Console.WriteLine(nombre + " tiene " + edad + " años ");
 
             Console.ReadKey();

@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            double monto_total, banco, fabricante, propio, interes;
-
+            double monto_total, fabricante, propio, interes;
+            double banco=0;
             Console.Write("ingrese un monto total");
             monto_total = double.Parse(Console.ReadLine());
             if (monto_total < 500000)
