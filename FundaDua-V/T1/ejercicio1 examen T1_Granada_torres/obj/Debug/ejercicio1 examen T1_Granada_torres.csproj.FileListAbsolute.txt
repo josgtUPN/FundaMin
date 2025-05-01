@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\bin\Debug\ejercicio1 examen T1_Granada_torres.exe.config
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\bin\Debug\ejercicio1 examen T1_Granada_torres.exe
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\bin\Debug\ejercicio1 examen T1_Granada_torres.pdb
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\obj\Debug\ejercicio1 examen T1_Granada_torres.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\obj\Debug\ejercicio1 examen T1_Granada_torres.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\obj\Debug\ejercicio1 examen T1_Granada_torres.exe
+C:\Users\USUARIO\Desktop\examen t1\ejercicio1 examen T1_Granada_torres\obj\Debug\ejercicio1 examen T1_Granada_torres.pdb
