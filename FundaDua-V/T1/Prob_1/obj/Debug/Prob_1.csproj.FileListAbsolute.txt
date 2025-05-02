@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\bin\Debug\Prob_1.exe.config
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\bin\Debug\Prob_1.exe
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\bin\Debug\Prob_1.pdb
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\obj\Debug\Prob_1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\obj\Debug\Prob_1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\obj\Debug\Prob_1.exe
+C:\Users\USUARIO\Desktop\examen t1\Prob_1\obj\Debug\Prob_1.pdb
+C:\Users\USUARIO\Desktop\Prob_1\bin\Debug\Prob_1.exe.config
+C:\Users\USUARIO\Desktop\Prob_1\bin\Debug\Prob_1.exe
+C:\Users\USUARIO\Desktop\Prob_1\bin\Debug\Prob_1.pdb
+C:\Users\USUARIO\Desktop\Prob_1\obj\Debug\Prob_1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Prob_1\obj\Debug\Prob_1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Prob_1\obj\Debug\Prob_1.exe
+C:\Users\USUARIO\Desktop\Prob_1\obj\Debug\Prob_1.pdb
