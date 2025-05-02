@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio1_examen_T1_Granada_torres
 {
-    internal class Program
+    internal class Prob1
     {
         static void Main(string[] args)
         {

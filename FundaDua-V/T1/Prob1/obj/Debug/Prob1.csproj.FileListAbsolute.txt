@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\obj\Debug\Prob1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\obj\Debug\Prob1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\obj\Debug\ejercicio1 examen T1_Granada_torres.exe
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\obj\Debug\ejercicio1 examen T1_Granada_torres.pdb
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\bin\Debug\ejercicio1 examen T1_Granada_torres.exe.config
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\bin\Debug\ejercicio1 examen T1_Granada_torres.exe
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\T1\Prob1\bin\Debug\ejercicio1 examen T1_Granada_torres.pdb
