@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\bin\Debug\GranadaTorres_Josue_T1.exe.config
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\bin\Debug\GranadaTorres_Josue_T1.exe
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\bin\Debug\GranadaTorres_Josue_T1.pdb
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\obj\Debug\GranadaTorres_Josue_T1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\obj\Debug\GranadaTorres_Josue_T1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\obj\Debug\GranadaTorres_Josue_T1.exe
+C:\Users\USUARIO\Desktop\examen t1\GranadaTorres_Josue_T1\obj\Debug\GranadaTorres_Josue_T1.pdb

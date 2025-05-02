@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|c:\\users\\usuario\\desktop\\examen t1\\granadatorres_josue_t1\\pregunta3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|solutionrelative:pregunta3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GranadaTorres_Josue_T1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|c:\\users\\usuario\\desktop\\examen t1\\granadatorres_josue_t1\\pregunta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|solutionrelative:pregunta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|c:\\users\\usuario\\desktop\\examen t1\\granadatorres_josue_t1\\pregunta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|solutionrelative:pregunta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B226D7BF-3FF1-4A64-A170-F36E30441D09}|GranadaTorres_Josue_T1.csproj|c:\\users\\usuario\\desktop\\examen t1\\granadatorres_josue_t1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pregunta3.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta3.cs",
+              "RelativeDocumentMoniker": "pregunta3.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta3.cs",
+              "RelativeToolTip": "pregunta3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:54:56.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GranadaTorres_Josue_T1",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\GranadaTorres_Josue_T1.csproj",
+              "RelativeDocumentMoniker": "GranadaTorres_Josue_T1.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\GranadaTorres_Josue_T1.csproj",
+              "RelativeToolTip": "GranadaTorres_Josue_T1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T16:50:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pregunta2.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta2.cs",
+              "RelativeDocumentMoniker": "pregunta2.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta2.cs",
+              "RelativeToolTip": "pregunta2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:45:01.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pregunta1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta1.cs",
+              "RelativeDocumentMoniker": "pregunta1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\examen t1\\GranadaTorres_Josue_T1\\pregunta1.cs",
+              "RelativeToolTip": "pregunta1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:08:40.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
