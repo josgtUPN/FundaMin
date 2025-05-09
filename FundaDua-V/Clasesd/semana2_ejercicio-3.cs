@@ -11,7 +11,7 @@ namespace Clases
     {
         static void Main(string[] args)
         {
-            ouble ingresocomprador, enganche, cuotacasa, costocasa;
+            double ingresocomprador, enganche, cuotacasa, costocasa;
 
             Console.WriteLine("bienes raices - compra tu casa");
             Console.WriteLine("******************************");

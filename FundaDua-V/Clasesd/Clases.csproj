@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Clases.semana7_1</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -47,6 +50,7 @@
     <Compile Include="semana1.cs" />
     <Compile Include="semana2.cs" />
     <Compile Include="semana2_ejercicio-3.cs" />
+    <Compile Include="semana7_1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\Clases.exe.config
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\Clases.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\Clases.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.pdb
