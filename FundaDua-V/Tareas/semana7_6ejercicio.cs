@@ -34,10 +34,11 @@ namespace Tareas
             {
                 house++;
                 
-                Console.Clear();
+                
 
                 do
                 {
+                    Console.Clear();
                     Console.Write("\tIngrese la lectura anterior de la casa " + house + " : ");
                     lectura_anterior = int.Parse(Console.ReadLine());
                     Console.Write("\tIngrese la lectura actual de la casa " + house + " : ");
@@ -48,7 +49,10 @@ namespace Tareas
                     metros_cubicos += metros_cubicos;
 
 
-                } while (house < 1 && house >= 19);
+                } while (house < 1 && house <= 20);
+                {
+
+                }
             } while (house < 21);
             Console.WriteLine(" " + metros_cubicos);
 

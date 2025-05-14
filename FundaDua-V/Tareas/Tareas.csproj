@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Tareas.semana7_6ejercicio</StartupObject>
+    <StartupObject>Tareas.ejemplo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejemplo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="semana1_ejercicio13.cs" />
     <Compile Include="semana2_ejercicio5.cs" />
