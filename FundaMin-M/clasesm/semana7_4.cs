@@ -80,20 +80,7 @@ namespace ConsoleApp1
                         Console.ReadKey();
                         Console.Clear();
                         break;
-                    case "4":
-                        for (int i = 0; i < cadena.Length; i++) ;
-                        {
-                            char c = char.Parse(cadena.Substring(i, 1));
-                            if (char.IsDigit(c))
-                            {
-                                if (int.Parse(c.ToString()) = 0)
-                                {
-                                    cont++;
-                                }
-
-                            }
-                               
-                        }
+                    //falta case4: (elominado por que no funiona9
                         Console.WriteLine("la cantidad de numeros positivos es: " + cont);
                         Console.ReadKey();
                         Console.Clear();
