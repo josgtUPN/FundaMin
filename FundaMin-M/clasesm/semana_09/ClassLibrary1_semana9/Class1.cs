@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary_Semana9
+namespace ClassLibrary1_semana9
 {
     public class Class1
     {

@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\bin\Debug\ClassLibrary1_semana9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\bin\Debug\ClassLibrary1_semana9.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\obj\Debug\ClassLibrary1_semana9.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\obj\Debug\ClassLibrary1_semana9.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\obj\Debug\ClassLibrary1_semana9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\ClassLibrary1_semana9\obj\Debug\ClassLibrary1_semana9.pdb

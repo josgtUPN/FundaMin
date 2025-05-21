@@ -50,5 +50,11 @@
     <None Include=".editorconfig" />
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="ClassLibrary1_semana9\ClassLibrary1_semana9.csproj">
+      <Project>{4512e1cc-0e31-4c19-a735-13398f21bb1c}</Project>
+      <Name>ClassLibrary1_semana9</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

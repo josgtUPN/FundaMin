@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\bin\Debug\semana_09.exe.config
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\bin\Debug\semana_09.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\bin\Debug\semana_09.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\bin\Debug\ClassLibrary1_semana9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\bin\Debug\ClassLibrary1_semana9.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\obj\Debug\semana_09.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\obj\Debug\semana_09.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\obj\Debug\semana_09.csproj.Up2Date
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\obj\Debug\semana_09.exe
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\semana_09\obj\Debug\semana_09.pdb
