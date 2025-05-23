@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundadua-v\\clasesd\\semana7_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|solutionrelative:semana7_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\semana_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2DD0F-77FE-43C5-B37D-8C745875F6E8}|Clases.csproj|solutionrelative:semana_09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Clases||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
@@ -20,20 +20,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,20 +31,21 @@
               "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\Clases.csproj",
               "RelativeToolTip": "Clases.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-09T19:50:31.761Z",
+              "WhenOpened": "2025-05-23T21:01:24.732Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "semana7_1.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\semana7_1.cs",
-              "RelativeDocumentMoniker": "semana7_1.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\semana7_1.cs",
-              "RelativeToolTip": "semana7_1.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAvwGIAAAAMAAAAAAAAAA==",
+              "Title": "semana_09.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\semana_09.cs",
+              "RelativeDocumentMoniker": "semana_09.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaDua-V\\Clasesd\\semana_09.cs",
+              "RelativeToolTip": "semana_09.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T19:36:51.059Z",
+              "WhenOpened": "2025-05-23T20:52:52.688Z",
               "EditorCaption": ""
             }
           ]

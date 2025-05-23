@@ -1,0 +1,2 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca_duarte\obj\Debug\biblioteca_duarte.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca_duarte\obj\Debug\biblioteca_duarte.csproj.CoreCompileInputs.cache
