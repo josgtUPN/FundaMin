@@ -4,3 +4,9 @@ C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Deb
 C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.dll
 C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.pdb
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\bin\Debug\Biblioteca_de_prob05.dll
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\bin\Debug\Biblioteca_de_prob05.pdb
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.dll
+C:\Users\USUARIO\Documents\GitHub\FundaMin\FundaDua-V\JP-Evaluacion T2 Práctico\Biblioteca_de_prob05\obj\Debug\Biblioteca_de_prob05.pdb
