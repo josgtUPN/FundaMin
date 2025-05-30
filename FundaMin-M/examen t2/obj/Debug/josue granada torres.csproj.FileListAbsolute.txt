@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\josue granada torres\bin\Debug\josue granada torres.exe.config
+C:\Users\USUARIO\Desktop\josue granada torres\bin\Debug\josue granada torres.exe
+C:\Users\USUARIO\Desktop\josue granada torres\bin\Debug\josue granada torres.pdb
+C:\Users\USUARIO\Desktop\josue granada torres\obj\Debug\josue granada torres.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\josue granada torres\obj\Debug\josue granada torres.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\josue granada torres\obj\Debug\josue granada torres.exe
+C:\Users\USUARIO\Desktop\josue granada torres\obj\Debug\josue granada torres.pdb

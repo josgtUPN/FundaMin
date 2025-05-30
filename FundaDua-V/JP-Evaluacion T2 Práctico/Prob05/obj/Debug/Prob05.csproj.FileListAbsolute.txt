@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\bin\Debug\Prob05.exe.config
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\bin\Debug\Prob05.exe
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\bin\Debug\Prob05.pdb
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\bin\Debug\Biblioteca_de_prob05.dll
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\bin\Debug\Biblioteca_de_prob05.pdb
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\obj\Debug\Prob05.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\obj\Debug\Prob05.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\obj\Debug\Prob05.csproj.Up2Date
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\obj\Debug\Prob05.exe
+C:\Users\USUARIO\Desktop\JP-Evaluacion T2 Práctico\Prob05\obj\Debug\Prob05.pdb
