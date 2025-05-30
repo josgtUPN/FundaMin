@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\obj\Debug\biblioteca sem9.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\obj\Debug\biblioteca sem9.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\bin\Debug\biblioteca sem9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\bin\Debug\biblioteca sem9.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\obj\Debug\biblioteca sem9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\biblioteca sem9\obj\Debug\biblioteca sem9.pdb

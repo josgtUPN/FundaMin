@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Clases</RootNamespace>
     <AssemblyName>Clases</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,9 +34,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Clases.semana7_1</StartupObject>
+    <StartupObject>Clases.semana_09</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="biblioteca sem9">
+      <HintPath>biblioteca sem9\bin\Debug\biblioteca sem9.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +55,7 @@
     <Compile Include="semana2.cs" />
     <Compile Include="semana2_ejercicio-3.cs" />
     <Compile Include="semana7_1.cs" />
+    <Compile Include="semana_09.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

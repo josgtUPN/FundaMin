@@ -5,3 +5,6 @@ C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\Clase
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\Clases.pdb
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.exe
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\biblioteca sem9.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\bin\Debug\biblioteca sem9.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\obj\Debug\Clases.csproj.Up2Date

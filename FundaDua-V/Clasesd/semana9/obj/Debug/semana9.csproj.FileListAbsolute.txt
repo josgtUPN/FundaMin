@@ -1,0 +1,2 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\semana9\obj\Debug\semana9.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaDua-V\Clasesd\semana9\obj\Debug\semana9.csproj.CoreCompileInputs.cache
