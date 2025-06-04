@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp1.semana11_2</StartupObject>
+    <StartupObject>ConsoleApp1.semana11_4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SEMANA11BIBLIOTECA">
@@ -52,6 +52,8 @@
   <ItemGroup>
     <Compile Include="semana11_1.cs" />
     <Compile Include="semana11_2.cs" />
+    <Compile Include="semana11_3.cs" />
+    <Compile Include="semana11_4.cs" />
     <Compile Include="semana7_4.cs" />
     <Compile Include="semana2-1.cs" />
     <Compile Include="semana2.cs" />

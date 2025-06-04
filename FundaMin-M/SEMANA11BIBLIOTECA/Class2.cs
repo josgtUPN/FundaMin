@@ -54,6 +54,36 @@ namespace biblioteca_semana11
             }
             return suma;
         }
+        public static void Llenar_Arreglo(ref int[] notas)
+        {
+            for (int i = 0; i < notas.Length; i++)
+            {
+                do
+                {
+                    Console.Write("Ingrese la nota del alumno " + (i + 1) + ": ");
+                }
+                while (!int.TryParse(Console.ReadLine(), out notas[i]));
+            }
+        }
+        public static int suma_arreglo(int[] notas)
+        {
+            int suma = 0;
+            for (int i = 0; i < suma; i++)
+            {
+                suma += notas[i];
+            }
+            return suma;
+        }
+        public static double[] calcular_promedio(int[] t1, int[] t2,int[] t3,int[]ef)
+        {
+            double[] promedio = new double[t1.Length];
+            for (int i = 0; i < t1.Length; i++)
+            {
+                promedio[i] = t1[i]*0.1 + t2[i]*0.2 + t3[i]*0.3 + ef[i]*0.4;
+            }
+            return promedio;
+        }
+
     }
 
 }
