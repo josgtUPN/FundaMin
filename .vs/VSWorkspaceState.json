@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FundaDua-V",
     "\\FundaDua-V\\JP-Evaluacion T2 Práctico",
-    "\\FundaDua-V\\JP-Evaluacion T2 Práctico\\Prob05"
+    "\\FundaDua-V\\JP-Evaluacion T2 Práctico\\Prob05",
+    "\\FundaMin-M",
+    "\\FundaMin-M\\clasesm"
   ],
-  "SelectedNode": "\\FundaDua-V\\JP-Evaluacion T2 Práctico\\Prob05\\Program.cs",
+  "SelectedNode": "\\FundaMin-M\\clasesm\\ConsoleApp1.sln",
   "PreviewInSolutionExplorer": false
 }

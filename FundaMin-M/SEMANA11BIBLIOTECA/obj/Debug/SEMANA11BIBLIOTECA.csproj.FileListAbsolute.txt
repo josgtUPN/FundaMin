@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\obj\Debug\SEMANA11BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\obj\Debug\SEMANA11BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\bin\Debug\SEMANA11BIBLIOTECA.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\bin\Debug\SEMANA11BIBLIOTECA.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\obj\Debug\SEMANA11BIBLIOTECA.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\SEMANA11BIBLIOTECA\obj\Debug\SEMANA11BIBLIOTECA.pdb
