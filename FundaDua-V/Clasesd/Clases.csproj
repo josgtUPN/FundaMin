@@ -40,6 +40,12 @@
     <Reference Include="biblioteca sem9">
       <HintPath>biblioteca sem9\bin\Debug\biblioteca sem9.dll</HintPath>
     </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -52,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="semana1.cs" />
+    <Compile Include="ejemplo11.cs" />
+    <Compile Include="semana11.cs" />
     <Compile Include="semana2.cs" />
     <Compile Include="semana2_ejercicio-3.cs" />
     <Compile Include="semana7_1.cs" />
@@ -59,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
