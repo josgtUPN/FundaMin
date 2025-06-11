@@ -29,3 +29,5 @@ C:\Users\Estudiante\Documents\FundaMin\FundaMin-M\clasesm\bin\Debug\ConsoleApp1.
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\bin\Debug\SEMANA11BIBLIOTECA.dll
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\bin\Debug\SEMANA11BIBLIOTECA.pdb
 C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\bin\Debug\WEEK12.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\clasesm\bin\Debug\WEEK12.pdb

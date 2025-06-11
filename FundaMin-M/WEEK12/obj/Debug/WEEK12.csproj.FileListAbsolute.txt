@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\bin\Debug\WEEK12.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\bin\Debug\WEEK12.pdb
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\obj\Debug\WEEK12.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\obj\Debug\WEEK12.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\obj\Debug\WEEK12.dll
+C:\Users\Estudiante\Documents\GitHub\FundaMin\FundaMin-M\WEEK12\obj\Debug\WEEK12.pdb
