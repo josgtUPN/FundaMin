@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FundaMin-M",
-    "\\FundaMin-M\\clasesm"
+    "\\FundaDua-V",
+    "\\FundaDua-V\\JP-AgenciaViajes",
+    "\\FundaDua-V\\JP-AgenciaViajes\\AgenciaViajes",
+    "\\FundaMin-M\\clasesm",
+    "\\FundaMin-M\\examen t1",
+    "\\FundaMin-M\\examen t2",
+    "\\FundaMin-M\\SEMANA11BIBLIOTECA",
+    "\\FundaMin-M\\WEEK12"
   ],
-  "SelectedNode": "\\FundaMin-M\\clasesm\\semana12_1.cs",
+  "SelectedNode": "\\FundaDua-V\\JP-AgenciaViajes\\AgenciaViajes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
