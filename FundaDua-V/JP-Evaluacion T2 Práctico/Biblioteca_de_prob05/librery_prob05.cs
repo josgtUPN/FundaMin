@@ -10,9 +10,9 @@ namespace calularenta
     //almacenamos los resultados 
     public class resultadosimulacion
     {
-        public int Incremento { get; set; }
+        public int incremento { get; set; }
         public double RentaPorDepto { get; set; }
-        public int DptosRentados { get; set; }
+        public int dptosrentados1 { get; set; }
         public int Desocupados { get; set; }
         public int TotalDeptos { get; set; }
         public double RentaTotal { get; set; }
@@ -53,11 +53,12 @@ namespace calularenta
                     conteoMayorA1000++;
                 }
                 //guardamos los resultados en una lista
-                resultados.Add(new resultadosimulacion
+                resultados.Add
+                (new resultadosimulacion
                 {
-                    Incremento = n,
+                    incremento = n,
                     RentaPorDepto = rentaPorDepto,
-                    DptosRentados = dptosRentados,
+                    dptosrentados1 = dptosRentados,
                     Desocupados = desocupados * n,
                     TotalDeptos = totalDeptos,
                     RentaTotal = rentaTotal
