@@ -59,6 +59,7 @@
     <Compile Include="semana11_4.cs" />
     <Compile Include="semana12_1.cs" />
     <Compile Include="semana12_2.cs" />
+    <Compile Include="semana14_1.cs" />
     <Compile Include="semana7_4.cs" />
     <Compile Include="semana2-1.cs" />
     <Compile Include="semana2.cs" />
@@ -86,6 +87,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\semana14\semana14.csproj">
+      <Project>{9207c7ea-eeb5-433b-950e-591c1c402540}</Project>
+      <Name>semana14</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
