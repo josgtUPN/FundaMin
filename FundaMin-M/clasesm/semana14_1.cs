@@ -14,7 +14,7 @@ namespace ConsoleApp1
             string cadena;
             Console.WriteLine("ingrese la cadena a convertir: ");
             cadena = Console.ReadLine();
-            Class1.Mostrar_cadena_triangulo(cadena);
+            Class1.Mostrar_Cadena_Triangulo(cadena);
             Console.ReadKey();
 
         }

@@ -60,6 +60,7 @@
     <Compile Include="semana12_1.cs" />
     <Compile Include="semana12_2.cs" />
     <Compile Include="semana14_1.cs" />
+    <Compile Include="semana14_2.cs" />
     <Compile Include="semana7_4.cs" />
     <Compile Include="semana2-1.cs" />
     <Compile Include="semana2.cs" />
