@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\",
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\clasesm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9207C7EA-EEB5-433B-950E-591C1C402540}|..\\semana14\\semana14.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\semana14\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\fundamin\\fundamin-m\\clasesm\\semana15_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana15_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\clasesm\\semana14_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana14_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{401921A5-0390-442B-80DD-DAC092917240}|..\\biblioteca 15\\biblioteca 15.csproj|c:\\users\\estudiante\\documents\\fundamin\\fundamin-m\\biblioteca 15\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\github\\fundamin\\fundamin-m\\clasesm\\semana14_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana14_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|c:\\users\\estudiante\\documents\\fundamin\\fundamin-m\\clasesm\\semana15_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C78FEC-DC5E-4233-88B4-F6FC1CC94C85}|ConsoleApp1.csproj|solutionrelative:semana15_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +21,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 246,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "semana15_2.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\clasesm\\semana15_2.cs",
+              "RelativeDocumentMoniker": "semana15_2.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\clasesm\\semana15_2.cs",
+              "RelativeToolTip": "semana15_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:38:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\biblioteca 15\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\biblioteca 15\\Class1.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\biblioteca 15\\Class1.cs",
+              "RelativeToolTip": "..\\biblioteca 15\\Class1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:36:40.915Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -41,41 +67,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "semana14_1.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana14_1.cs",
-              "RelativeDocumentMoniker": "semana14_1.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana14_1.cs",
-              "RelativeToolTip": "semana14_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:57:05.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\semana14\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\semana14\\Class1.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\semana14\\Class1.cs",
-              "RelativeToolTip": "..\\semana14\\Class1.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:56:53.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "semana14_2.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana14_2.cs",
-              "RelativeDocumentMoniker": "semana14_2.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\FundaMin\\FundaMin-M\\clasesm\\semana14_2.cs",
-              "RelativeToolTip": "semana14_2.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "semana15_1.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\clasesm\\semana15_1.cs",
+              "RelativeDocumentMoniker": "semana15_1.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\FundaMin\\FundaMin-M\\clasesm\\semana15_1.cs",
+              "RelativeToolTip": "semana15_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T17:48:28.703Z",
+              "WhenOpened": "2025-07-02T15:33:29.067Z",
               "EditorCaption": ""
             }
           ]

@@ -61,6 +61,8 @@
     <Compile Include="semana12_2.cs" />
     <Compile Include="semana14_1.cs" />
     <Compile Include="semana14_2.cs" />
+    <Compile Include="semana15_1.cs" />
+    <Compile Include="semana15_2.cs" />
     <Compile Include="semana7_4.cs" />
     <Compile Include="semana2-1.cs" />
     <Compile Include="semana2.cs" />
@@ -90,9 +92,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\semana14\semana14.csproj">
-      <Project>{9207c7ea-eeb5-433b-950e-591c1c402540}</Project>
-      <Name>semana14</Name>
+    <ProjectReference Include="..\biblioteca 15\biblioteca 15.csproj">
+      <Project>{401921a5-0390-442b-80dd-dac092917240}</Project>
+      <Name>biblioteca 15</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\semana15\semana15.csproj">
+      <Project>{52dca8f2-9eba-4f03-bd92-b37ad3332c6f}</Project>
+      <Name>semana15</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
